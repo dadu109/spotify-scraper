@@ -1,0 +1,10 @@
+{
+  "name": "random-spotify-scraper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "d.miczek <d.miczek@ideo.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
